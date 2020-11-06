@@ -6,6 +6,7 @@ const first = new Vue ({
   el: '#first',
   data: {
     title: 'First use',
-    img: '',
+    img: 'img.jpg',//immagine presa da stessa cartella file
+    immagine: '',
   }
 });
